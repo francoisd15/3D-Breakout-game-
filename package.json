@@ -1,0 +1,12 @@
+{
+  "name": "3d-breakout",
+  "version": "1.0.0",
+  "description": "A 2.5D Breakout Game built with Three.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  }
+}
